@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 // ===== CẤU HÌNH =====
-const BOT_TOKEN = '8344997575:AAFVHwMloiWpTyQ3s27c1cwmlqM6WobkuEQ';
+const BOT_TOKEN = '8708745866:AAHaguQ0pucXCWuaGWN-lJCUofx45p2v84U';
 const ADMIN_ID = 6780308119;
 const KEY_PRICE = 5000;
 const BANK_INFO = {

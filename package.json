@@ -1,0 +1,15 @@
+{
+  "name": "hdm-bot",
+  "version": "1.0.0",
+  "description": "HDM Telegram Bot - Cấp key tự động",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
